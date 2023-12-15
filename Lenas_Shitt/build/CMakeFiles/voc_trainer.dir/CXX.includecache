@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lsb97371/Lenas_Shitt/list.hpp
+memory
+-
+node.hpp
+/home/lsb97371/Lenas_Shitt/node.hpp
+iostream
+-
+list.ipp
+/home/lsb97371/Lenas_Shitt/list.ipp
+
+/home/lsb97371/Lenas_Shitt/list.ipp
+
+/home/lsb97371/Lenas_Shitt/node.hpp
+memory
+-
+iostream
+-
+string
+-
+node.ipp
+/home/lsb97371/Lenas_Shitt/node.ipp
+
+/home/lsb97371/Lenas_Shitt/node.ipp
+
+/home/lsb97371/Lenas_Shitt/voc_trainer.cpp
+iostream
+-
+string
+-
+fstream
+-
+sstream
+-
+list.hpp
+/home/lsb97371/Lenas_Shitt/list.hpp
+node.hpp
+/home/lsb97371/Lenas_Shitt/node.hpp
+

@@ -1,0 +1,3 @@
+/home/lsb97371/Lenas_Shitt/build/CMakeFiles/rebuild_cache.dir
+/home/lsb97371/Lenas_Shitt/build/CMakeFiles/edit_cache.dir
+/home/lsb97371/Lenas_Shitt/build/CMakeFiles/voc_trainer.dir
